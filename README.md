@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/sergiosanchezs/sergiosanchezs/blob/master/img/MERN-Stack.png" width="350"/>
+<img align="right" src="https://github.com/sergiosanchezs/sergiosanchezs/blob/master/img/MERN-Stack.png" width="330"/>
 
 ## Hi, I'm Sergio Sanchez 👋
 
